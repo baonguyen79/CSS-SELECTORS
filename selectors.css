@@ -70,7 +70,6 @@ span[class="active"]{
 /*Without adding any other attributes to the input fields in the footer, 
 write a CSS selector that makes any text input field have a height of 25px.*/
 
-input[type="text"]  {
-	line-height:  25px;
-	background-color: red;
+span input {
+	height:  25px;
 }
